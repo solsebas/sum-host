@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sum-host/static/css/main.f855e6bc.css",
-    "main.js": "/sum-host/static/js/main.c3da3fcb.js",
+    "main.js": "/sum-host/static/js/main.d5a6d7f5.js",
     "static/js/488.72f6bd1f.chunk.js": "/sum-host/static/js/488.72f6bd1f.chunk.js",
     "workbox-d6cf95b0.js.map": "/sum-host/workbox-d6cf95b0.js.map",
     "workbox-d6cf95b0.js": "/sum-host/workbox-d6cf95b0.js",
@@ -10,11 +10,11 @@
     "service-worker.js": "/sum-host/service-worker.js",
     "index.html": "/sum-host/index.html",
     "main.f855e6bc.css.map": "/sum-host/static/css/main.f855e6bc.css.map",
-    "main.c3da3fcb.js.map": "/sum-host/static/js/main.c3da3fcb.js.map",
+    "main.d5a6d7f5.js.map": "/sum-host/static/js/main.d5a6d7f5.js.map",
     "488.72f6bd1f.chunk.js.map": "/sum-host/static/js/488.72f6bd1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c3da3fcb.js"
+    "static/js/main.d5a6d7f5.js"
   ]
 }
